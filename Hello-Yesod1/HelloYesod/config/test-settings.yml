@@ -1,0 +1,2 @@
+database:
+  database: HelloYesod_test.sqlite3
