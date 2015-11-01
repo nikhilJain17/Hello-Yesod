@@ -1,1 +1,8 @@
 <h1> Create a post!
+<p> Sample Text, Patent Pending.
+
+<form method=post action=@{PostNewR} enctype=#{enctype}>
+^{widget} <!-- to embed the widget -->
+
+<!-- submit button -->
+<button class="btn btn-default">Create Post!
