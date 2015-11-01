@@ -1,0 +1,4 @@
+textarea {
+	min-height: 400px;
+	background-color: #7F7F7F;
+}
